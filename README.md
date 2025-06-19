@@ -30,10 +30,5 @@ A modern, full-stack SaaS platform for creating, managing, and chatting with cus
 
 ---
 
-## 🧭 Getting Started
 
-### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/companion-ai.git
-cd companion-ai
